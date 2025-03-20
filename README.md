@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Magic Button*
 
-Submitted by: **Your Name Here**
+Submitted by: **Anh-Thu Bui**
 
-**Name of your app** is an app that... [TODO] 
+**Magic Button** is an app that... [Allows you to change the background color of the application by pressing a button] 
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -15,19 +15,37 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
+
+<div>
+    <a href="https://www.loom.com/share/f24bb94e22bf411fbd1a7d1469f9603a">
+    </a>
+    <a href="https://www.loom.com/share/f24bb94e22bf411fbd1a7d1469f9603a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f24bb94e22bf411fbd1a7d1469f9603a-84342ec6c0c26132-full-play.gif">
+    </a>
+  </div> 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
+Favorite applications:
+- TikTok (Features: easy to scroll to new content, content are ones of interest)
+- Roblox (Features: easy to use on mobile, variety of games to play)
+- Instagram (Features: easy to see stories of friends, content are ones of interest)
+
+I would like to build an app that is similar to instagram but for pets. Users will be able to post their pets in a section and scroll through endless pet content whether it be videos or pictures. Users can also post content related to pets like recipes in a different section. Some additional features I would like to add are a section with resources to the nearest emergency vets and animal rescue shelters.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+After changing my fonts and colors for the labels and buttons, I didn't know how to commit those additional changes to git.
+I also had trouble dragging UI elements to move their positions on xcode.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Anh-Thu Bui]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
